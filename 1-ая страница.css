@@ -1,0 +1,35 @@
+body{
+	text-align: center;
+	 background-image: url('5_asfasw112.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#list{
+	border: none;
+	padding: 20px;
+	height: 40px;
+	border-radius: 30px;
+	font-size: 20px;
+	padding-top: 10px
+}
+#list2{
+	position: relative;top: 5px;
+	border: none;
+	padding: 20px;
+	height: 40px;
+	border-radius: 30px;
+	font-size: 20px;
+	padding-top: 10px
+}
+#list3{
+	position: relative;top: 10px;
+	border: none;
+	padding: 20px;
+	height: 40px;
+	border-radius: 30px;
+	font-size: 20px;
+	padding-top: 10px
+}
+h1{
+	color: white;
+}
