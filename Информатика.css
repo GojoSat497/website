@@ -1,20 +1,28 @@
 body{
-	
+	color: white;
 	background-image: url("6032628.jpg");
 
 }
 #tree{
 	padding: 400px;
 	height: 400px;
+	position: relative;left: 17px;top: -800px;
 }
 .box {
   border: 5px solid darkblue;
-  height: 500px;
+  height: 390px;
   width: 400px;
   text-align: left;
 }
+.box2{
+	border: 5px solid white;
+	height: 550px;
+	width: 500px;
+	position: relative;top: -1200px;
+}
 .wrapper{
  	height: 2500px;
- 	width: 800px;
+ 	width: 1000px;
  	border: solid red 2px;
+ 	position: relative;left: 25%;
 }
